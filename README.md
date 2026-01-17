@@ -9,10 +9,10 @@
 
 Soy un **Politólogo** con un enfoque técnico robusto en el **Análisis de Datos**. Mi propósito es unir la visión crítica y estratégica de las ciencias sociales con la capacidad técnica de la arquitectura de datos para generar impacto positivo.
 
-- 💼 Actualmente soy **Coordinador de Análisis de Datos y Gestión de Proyectos en V1TR0**, liderando arquitecturas de información y despliegue de IA.
-- 🇺🇳 Cuento con experiencia en el **sector humanitario (OCHA - Naciones Unidas)**, analizando datos críticos en zonas de conflicto.
+- 💼 He sido **Coordinador de Análisis de Datos y Gestión de Proyectos en V1TR0**, liderando arquitecturas de información y despliegue de IA.
+- Cuento con experiencia en el **sector humanitario (OCHA - Naciones Unidas)**, analizando datos críticos en zonas de conflicto.
 - 🏆 Ganador de la **Datathon 2023** con un visor de datos sobre reclutamiento forzado en el Cauca.
-- 📚 Constantemente aprendiendo sobre la intersección entre **IA, Desarrollo Web y Políticas Públicas**.
+- 📚 Constantemente aprendiendo sobre la intersección entre **IA, Sostenibilidad y Políticas Públicas**.
 
 ---
 
