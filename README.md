@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   <h1>¡Hola! Soy Alvaro Efren Bolaños Scalante 📊⚖️</h1>
-  <p><strong>Politólogo & Data Analyst | Project Manager en V1TR0</strong></p>
+  <p><strong>Politólogo & Data Analyst | Project Manager </strong></p>
   <p><i>Transformando realidades sociales y ambientales a través del flujo inteligente de datos.</i></p>
 </div>
 
