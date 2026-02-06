@@ -42,6 +42,7 @@ Soy un **Politólogo** con un enfoque técnico robusto en el **Análisis de Dato
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZncTg4ZXZvMjB5dnNxZDBlb2J1cHdyaDlrMGVjZTYweXJkaGI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDd5b7NUbS1C1PMjUl/giphy.gif)" />
 </div>
 
 ---
