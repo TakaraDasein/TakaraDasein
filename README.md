@@ -7,12 +7,27 @@
 
 ### 🔭 Sobre mí
 
-Soy un **Politólogo** con un enfoque técnico robusto en el **Análisis de Datos**. Mi propósito es unir la visión crítica y estratégica de las ciencias sociales con la capacidad técnica de la arquitectura de datos para generar impacto positivo.
-
-- 💼 He sido **Coordinador de Análisis de Datos y Gestión de Proyectos en V1TR0**, liderando arquitecturas de información y despliegue de IA.
-- Cuento con experiencia en el **sector humanitario (OCHA - Naciones Unidas)**, analizando datos críticos en zonas de conflicto.
-- 🏆 Ganador de la **Datathon 2023** con un visor de datos sobre reclutamiento forzado en el Cauca.
-- 📚 Constantemente aprendiendo sobre la intersección entre **IA, Sostenibilidad y Políticas Públicas**.
+Soy Politólogo con un enfoque directo en el Análisis y Ciencia de Datos, con solida experiencia en el procesamiento,
+modelado y estructuración de información. Mi trayectoria se centra en el desarrollo de soluciones de software para la gestión
+y visualización de datos en contextos sociales, Institucionales, humanitarios y ambientales. En estos contextos cuento con
+una alta capacidad para transformar datos crudos en análisis eficaces para la toma de decisiones estratégicas.
+Tengo amplia experiencia en el ciclo de vida de los datos, abordando tanto el enfoque estratégico como el técnico. Para el
+análisis exploratorio de datos (EDA) utilizo Python (Pandas, NumPy, Matplotlib, Seaborn) o R, según las necesidades del
+proyecto. En la gestión de consultas, en entornos relacionales trabajo con SQL (MySQL/PostgreSQL) y MongoDB para bases
+de datos NoSQL. Dentro del ecosistema Microsoft, manejo la suite completa de Power BI: Power Query (ETL, transformación y
+modelado de datos), DAX (medidas y cálculos avanzados) y uso Tableau como herramienta de visualización de datos avanzada.
+Ademas, en proyectos Open Source utilizo herramientas como, D3.js o Recharts para visualización y presentación de datos,
+seleccionando la tecnología libre más adecuada según el contexto. Estas capacidades me permiten resolver casos de uso
+diversos, desde el EDA, el monitoreo de KPIs y la automatización de procesos hasta el análisis predictivo siempre apoyado en
+la construcción de dashboards interactivos orientados a la presentacion efectiva para la toma de decisiones estrategica.
+Mi enfoque combina la resolución técnica y analítica con la comprensión de dinámicas sociales, institucionales y políticas, lo que
+me otorga una ventaja competitiva en la gestión de grupos de expertos y redes de trabajo. Entiendo los datos no solo como
+cifras, sino como expresiones de realidades complejas de instituciones, comunidades y territorios que requieren soluciones
+multidisciplinarios.
+Me defino como un investigador disciplinado, orientado al aprendizaje continuo y con experiencia liderando equipos
+multidisciplinarios. Creo firmemente que los datos analizados y contextualizados, combinados con una gestión eficiente de
+redes de conocimiento, son la herramienta clave para diseñar estrategias de toma de decisiones y gestión; con el fin de
+generar un impacto positivo en las instituciones, las empresas, el medio ambiente y la sociedad
 
 ---
 
