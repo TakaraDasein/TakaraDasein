@@ -11,19 +11,23 @@ Soy Politólogo con un enfoque directo en el Análisis y Ciencia de Datos, con s
 modelado y estructuración de información. Mi trayectoria se centra en el desarrollo de soluciones de software para la gestión
 y visualización de datos en contextos sociales, Institucionales, humanitarios y ambientales. En estos contextos cuento con
 una alta capacidad para transformar datos crudos en análisis eficaces para la toma de decisiones estratégicas.
+
 Tengo amplia experiencia en el ciclo de vida de los datos, abordando tanto el enfoque estratégico como el técnico. Para el
 análisis exploratorio de datos (EDA) utilizo Python (Pandas, NumPy, Matplotlib, Seaborn) o R, según las necesidades del
 proyecto. En la gestión de consultas, en entornos relacionales trabajo con SQL (MySQL/PostgreSQL) y MongoDB para bases
 de datos NoSQL. Dentro del ecosistema Microsoft, manejo la suite completa de Power BI: Power Query (ETL, transformación y
 modelado de datos), DAX (medidas y cálculos avanzados) y uso Tableau como herramienta de visualización de datos avanzada.
+
 Ademas, en proyectos Open Source utilizo herramientas como, D3.js o Recharts para visualización y presentación de datos,
 seleccionando la tecnología libre más adecuada según el contexto. Estas capacidades me permiten resolver casos de uso
 diversos, desde el EDA, el monitoreo de KPIs y la automatización de procesos hasta el análisis predictivo siempre apoyado en
 la construcción de dashboards interactivos orientados a la presentacion efectiva para la toma de decisiones estrategica.
+
 Mi enfoque combina la resolución técnica y analítica con la comprensión de dinámicas sociales, institucionales y políticas, lo que
 me otorga una ventaja competitiva en la gestión de grupos de expertos y redes de trabajo. Entiendo los datos no solo como
 cifras, sino como expresiones de realidades complejas de instituciones, comunidades y territorios que requieren soluciones
 multidisciplinarios.
+
 Me defino como un investigador disciplinado, orientado al aprendizaje continuo y con experiencia liderando equipos
 multidisciplinarios. Creo firmemente que los datos analizados y contextualizados, combinados con una gestión eficiente de
 redes de conocimiento, son la herramienta clave para diseñar estrategias de toma de decisiones y gestión; con el fin de
